@@ -1,0 +1,5 @@
+TODO: figure out the starting point of the laser - is it always coming from the
+same starting point relative to the ship itself?
+
+TODO: fix the ship's tendency to hop back and forth around a destination click
+point
